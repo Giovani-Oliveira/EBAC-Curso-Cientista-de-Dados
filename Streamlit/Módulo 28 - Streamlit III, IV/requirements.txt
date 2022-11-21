@@ -1,0 +1,5 @@
+matplotlib
+XlsxWriter
+streamlit
+seaborn
+pandas
