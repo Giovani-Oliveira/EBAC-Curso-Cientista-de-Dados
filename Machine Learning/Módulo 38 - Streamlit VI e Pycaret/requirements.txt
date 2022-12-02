@@ -1,0 +1,4 @@
+XlsxWriter
+streamlit
+pandas
+pycaret
